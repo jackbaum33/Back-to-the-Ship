@@ -1,0 +1,6 @@
+*.txt
+*.dSYM
+*.pdf
+ship
+*.o
+*.gz
